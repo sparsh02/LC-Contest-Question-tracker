@@ -18,8 +18,5 @@ To install the Contest Tracker - LeetCode Chrome extension, follow these steps:
 - Cross: Indicates unsolved problems.
 - Clicking on the icon directly opens the corresponding problem. 
 
-## Suggestions and Feedback
-
-I greatly appreciate any suggestions or feedback you may have for improving the extension. 
 
 
